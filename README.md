@@ -2,10 +2,10 @@
 ### The Objective of this project is to predict whether the bank note is authenticated or not
 Why Dockers?
 
-      For Example, you are shifting the house, While shifting you forget some items in the previous house, in order to overcome this, 
+For Example, you are shifting the house, While shifting you forget some items in the previous house, in order to overcome this, 
 while we shift you place all items in a container and move to the new house. So, the problem of forgeting items in the previous house has overcome by using cantainer.
 
-      In IT industry , for example Developer A has created web application in a system with some system configuration like Operarting System, Ram, CPU etc. 
+ In IT industry , for example Developer A has created web application in a system with some system configuration like Operarting System, Ram, CPU etc. 
  Now the developer had given this web application to testing team. Testing team has different system configuration then the web application is not working
  because the system configurations are different. The Machine Learning application depends on Operating System for example if the first system is Linux and 
  second system is windows  in this case their is a lot of library compatability issues will come. To Prevent this we will put all the application in a container called DOCKER CONTAINER and gives to testing team.
